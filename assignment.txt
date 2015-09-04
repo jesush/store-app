@@ -1,0 +1,32 @@
+Hello Jesus,
+As per our discussion please find the coding challenge. Please send the code and URL to me in 48hours. 
+
+Arun is a student at UC Berkeley. Arun eats his lunch at the campus cafeteria daily. He has classes in the morning from 9:30AM to 12:30PM in the Physics building and the next class starts at 1:30PM in the Law school. The walk to the cafeteria usually takes about 20mins (12:50PM). He spends usually 15mins(1:05PM) waiting in line, getting the food & paying for it. Another 15mins(1:20PM) for eating the food. The walk from cafeteria to the Law School is 10mins(1:30PM). He is not allowed to enter the class after 1:30PM. 
+
+Everyday, Arun has to choose between rushing through/missing his lunch or missing the class. If there is a mechanism which will let him pre-order his food and allow scheduled pickups it would make his and his fellow students life a lot smoother. 
+
+UC Berkeley's cafeteria has made the cafeteria menu available through an API. 
+The cafeteria has 4 stores, each with a defined menu for the day. Each menu has 4 items to choose from. 
+You can hard code any information that you want or use any form of storage that you are comfortable with. For e.g. it can be browser's local storage or services like firebase. 
+Build a web app which will let Arun browse through the menu and place an order for the food and schedule a pick up time.
+Build a point of sale(POS) system for the cafeteria cashier which will list the time of pickup, student's name, food ordered and a mechanism to indicate whether the order has been picked up or missed. The POS runs on an iPad's Safari web browser.
+
+Criteria you will be judged on:
+Anything that is built should be functional, intuitive and considers usability. You will be also judged on the look and feel of the web app.
+Functional means all the UI elements and the interactions should work. For e.g. If I click on the "Place Order" button, it need not talk to the backend, but it should show a feedback about order confirmation. 
+Bonus points for including features or ideas that are not defined in the scope but will enhance the user experience. 
+Please host the project in any free hosting service like heroku or Github pages and send the URL for the hosted solution. 
+
+Please send the code to team@ridecell.com and include detailed steps to run the project. If we have to install libraries or modules to run this please include detailed installation instructions about them. For e.g. If we have to install node or some specific node modules, please include instructions for installing them. 
+
+The environment in which we can run the local version is Mac OS X Yosemite or Ubuntu 14.04.
+
+Please feel free to contact Arun (arun@ridecell.com) through email if you have any questions.
+
+
+Best,
+John Lee
+Growth @ RideCell - Founding Team
+415.663.5727 / john@ridecell.com
+
+ridecell.com
