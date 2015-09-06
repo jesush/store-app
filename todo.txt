@@ -1,0 +1,41 @@
+[] Build a page for the ordering system
+	- List items from the cafeteria
+	- When the user clicks on an item, add the item to cart
+	- Give the user the ability to look at his cart and edit the number of items in cart.
+
+	- When the user clicks on checkout ask him to tell us the time of pickup.
+
+	- Ask the user for information such as, first name, last name, email address, and payment information
+
+	- When the user checks out, show a confirmation page.
+
+	- When a user confirms, show a congratulations your order has been placed.
+
+
+
+[] Design Dashboard for Backend
+	
+	- List all existing orders
+	- List all missed orders
+	- List all picked up orders
+
+
+Extra
+
+	From the business perspective, the below would serve as utilities for the business to further refine their business tactics and facilitate customer satisfaction and refine logistics
+
+	- Ask the user a question after placing order. Such as, where are you headed after pickup?
+
+	- List the popular times for pickup
+
+	- List which items are popular orders
+
+	- List the users that placing the most orders, and which type of items they order the most, and if there's a pattern
+		- If there's a pattern, highlight such pattern..
+			"Joe orders pizza every Tuesday for pickup at this time..."
+
+
+
+[] Optimize for Desktop
+
+[] Optimize for Mobile
