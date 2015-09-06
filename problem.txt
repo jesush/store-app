@@ -1,0 +1,16 @@
+The Problem
+
+Users: Students, Cafeteria Employees
+
+Student: He has a tight schedule, and would rather pre-order his meal from teh cafeteria, to prevent the process of waiting in line and paying for it, a process that takes him about 15 minutes, with an additional X amount of minutes to walk to and from the cafeteria to his destination.
+
+Cafeteria Employee: Has a busier life now, he's getting many orders, and would like to make sure the orders are accurate and scheduled to be picked up on time. He would also like to delay orders, in the case that they cannot complete the order within the allotted time.
+
+Cafeteria Admin: Would like to keep track on who is ordering what, what items are being ordered, and how can he upsell. He would also like to improve customer satisfaction by know which orders have been picked up at what times, and whether there have been orders that were missed.
+
+Problem: Time is lost for students when they're placing orders through the good ol' line method, where users end up waiting in a queue until they get to an individual and place an order in person. The user would like to be able to order and schedule a pick up time in order to avoid this.
+
+If this service is implemented, the caferita staff would need to know the orderes that are being placed, who is placing these orders, and time of pickup to make this process smooth. They would also need a way to process these orders and accept payment.
+
+Solution: Build an site that would accomodate the target audience, implementing an ordering system, and a dashboard for the employees, and perhaps even a dashboard for the Cafeteria Admin.
+
